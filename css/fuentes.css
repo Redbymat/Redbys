@@ -1,0 +1,12 @@
+@font-face{
+	font-family:lato;
+	src:url(../fuentes/lato/Lato-Regular.ttf);
+}
+@font-face{
+	font-family:latolight;
+	src:url(../fuentes/lato/Lato-Light.ttf);
+}
+@font-face{
+	font-family:latoblack;
+	src:url(../fuentes/lato/Lato-Black.ttf);
+}
